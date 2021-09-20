@@ -6,7 +6,7 @@ leetcode题解(包括思路，关键点和具体的代码实现)
 
 leetcode 题目地址 https://leetcode.com/problemset/all/
 
-github 项目地址：https://github.com/xiaxyxy/leetcode-
+github 项目地址：https://github.com/xiaxyxy/leetcode
 
 可以加好友一起交流
 
