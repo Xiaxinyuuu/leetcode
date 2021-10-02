@@ -12,7 +12,7 @@ github 项目地址：https://github.com/xiaxyxy/leetcode
 
 微信： 15142662711
 
-
+QQ：2316683971
 
 
 <img width="278" alt="截屏2021-09-20 下午2 15 43" src="https://user-images.githubusercontent.com/76138768/133962771-08f19673-61f2-4304-ab58-84a060140f6a.png">
